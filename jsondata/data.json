@@ -1,0 +1,91 @@
+{
+  "products":
+  [
+    {
+      "prod_id": 2,
+      "prod_name": "iphone 7",
+      "prod_slug": "iphone-7",
+      "prod_price": 12000000,
+      "prod_img": "image1657004873-iphone7-plus-black-select-2016.jpg",
+      "prod_warranty": "1 năm",
+      "prod_accessories": "Không",
+      "prod_condition": "mới",
+      "prod_promotion": "không",
+      "prod_status": 1,
+      "pro_description": "<p>Bảo h&agrave;nh 1 năm</p>",
+      "prod_featured": 1,
+      "prod_cate": 2,
+      "created_at": "2022-07-05T07:07:53.000000Z",
+      "updated_at": "2022-07-05T07:07:53.000000Z"
+    },
+    {
+      "prod_id": 3,
+      "prod_name": "iphone 6",
+      "prod_slug": "iphone-6",
+      "prod_price": 13000000,
+      "prod_img": "image1657005194-product-1.png",
+      "prod_warranty": "1 năm",
+      "prod_accessories": "Không",
+      "prod_condition": "mới",
+      "prod_promotion": "không",
+      "prod_status": 1,
+      "pro_description": "<p>Iphone 6, Bảo h&agrave;nh 1 năm</p>",
+      "prod_featured": 1,
+      "prod_cate": 2,
+      "created_at": "2022-07-05T07:13:14.000000Z",
+      "updated_at": "2022-07-05T07:13:14.000000Z"
+    },
+    {
+      "prod_id": 4,
+      "prod_name": "Sam Sung",
+      "prod_slug": "sam-sung",
+      "prod_price": 13000000,
+      "prod_img": "image1657005235-product-2.png",
+      "prod_warranty": "1 năm",
+      "prod_accessories": "Không",
+      "prod_condition": "mới",
+      "prod_promotion": "không",
+      "prod_status": 1,
+      "pro_description": "<p>Sam sung, Bảo h&agrave;nh 1 năm</p>",
+      "prod_featured": 1,
+      "prod_cate": 1,
+      "created_at": "2022-07-05T07:13:55.000000Z",
+      "updated_at": "2022-07-05T07:13:55.000000Z"
+    },
+    {
+      "prod_id": 5,
+      "prod_name": "HTC",
+      "prod_slug": "htc",
+      "prod_price": 13000000,
+      "prod_img": "image1657005257-product-3.png",
+      "prod_warranty": "1 năm",
+      "prod_accessories": "Không",
+      "prod_condition": "mới",
+      "prod_promotion": "không",
+      "prod_status": 1,
+      "pro_description": "<p>HTC, Bảo h&agrave;nh 1 năm</p>",
+      "prod_featured": 1,
+      "prod_cate": 7,
+      "created_at": "2022-07-05T07:14:17.000000Z",
+      "updated_at": "2022-07-05T07:14:17.000000Z"
+    },
+    {
+      "prod_id": 6,
+      "prod_name": "LG",
+      "prod_slug": "lg",
+      "prod_price": 6666666,
+      "prod_img": "image1657034460-banner-l-2.png",
+      "prod_warranty": "2 năm",
+      "prod_accessories": "Không",
+      "prod_condition": "mới",
+      "prod_promotion": "không",
+      "prod_status": 1,
+      "pro_description": "<p>LG, Bảo h&agrave;nh 1 năm</p>",
+      "prod_featured": 1,
+      "prod_cate": 3,
+      "created_at": "2022-07-05T07:14:45.000000Z",
+      "updated_at": "2022-07-05T07:14:45.000000Z"
+    }
+  ]
+
+}
